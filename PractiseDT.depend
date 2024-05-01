@@ -1,0 +1,118 @@
+# depslib dependency file v1.0
+1711806005 source:d:\code\practisedt\directorder.c
+	<stdio.h>
+	<stdlib.h>
+
+1712830593 source:d:\code\practisedt\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1710923185 source:d:\code\practisedt\binsertsort.c
+	<stdio.h>
+	<stdlib.h>
+
+1710923154 source:d:\code\practisedt\shellinsert.c
+	<stdio.h>
+	<stdlib.h>
+
+1710923042 source:d:\code\practisedt\bubblesort.c
+	<stdio.h>
+	<stdlib.h>
+
+1711806226 source:d:\code\practisedt\quicksort.c
+	<stdio.h>
+	<stdlib.h>
+
+1710936247 source:d:\code\practisedt\selectsort.c
+	<stdio.h>
+	<stdlib.h>
+
+1711269580 source:d:\code\practisedt\heapsort.c
+	<stdio.h>
+	<stdlib.h>
+
+1711258232 source:d:\code\practisedt\msort.c
+	<stdio.h>
+	<stdlib.h>
+
+1711271223 source:d:\code\practisedt\daysbetweentwodates.c
+	<stdio.h>
+	<stdlib.h>
+
+1711275991 source:d:\code\practisedt\searchseq.c
+	<stdio.h>
+	<stdlib.h>
+
+1711280291 source:d:\code\practisedt\searchbin.c
+	<stdio.h>
+	<stdlib.h>
+
+1711284800 source:d:\code\practisedt\searchblock.c
+	<stdio.h>
+	<stdlib.h>
+
+1711327594 source:d:\code\practisedt\midtraverse.c
+	<stdio.h>
+	<stdlib.h>
+
+1711724603 source:d:\code\practisedt\searchbst.c
+	<stdio.h>
+	<stdlib.h>
+
+1711349925 source:d:\code\practisedt\prstar.c
+	<stdio.h>
+	<stdlib.h>
+
+1711700703 source:d:\code\practisedt\test.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1711450806 source:d:\code\practisedt\listinsert.c
+	<stdio.h>
+	<stdlib.h>
+
+1711499794 source:d:\code\practisedt\kuohao.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
+1711503176 source:d:\code\practisedt\valuelist.c
+	<stdio.h>
+	<stdlib.h>
+
+1711784819 source:d:\code\practisedt\stack.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"sfile.h"
+
+1711703428 source:d:\code\practisedt\value.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"sfile.h"
+
+1711698746 source:d:\code\practisedt\queue.c
+	<stdio.h>
+	<stdlib.h>
+
+1711720070 d:\code\practisedt\sfile.h
+
+1711722758 source:d:\code\practisedt\conver.c
+	<stdio.h>
+	<stdlib.h>
+	"sfile.h"
+
+1712819206 source:d:\code\practisedt\imidtravel.c
+	<stdio.h>
+	<stdlib.h>
+	"sfile.h"
+
+1712833140 source:d:\code\practisedt\detcal.c
+	<stdio.h>
+	<stdlib.h>
+
